@@ -1,2 +1,2 @@
 #!/bin/bash
- chown user:group hello
+ chown 774 hello
